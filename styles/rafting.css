@@ -276,7 +276,7 @@ header {
 }*/
 footer {
     display: grid;
-    grid-template-columns: 1fr auto;
+    grid-template-columns: 2fr auto;
     align-items: center;
     padding: 20px;
     background: var(--accent1-color);
