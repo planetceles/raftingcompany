@@ -120,10 +120,8 @@ footer a {
     font-family: "Roboto Serif", serif;
 }*/
 header {
-    display: flex;
-    justify-content: space-around;
-    /*display: grid;
-    grid-template-columns: auto 1fr;*/
+    display: grid;
+    grid-template-columns: auto 1fr;
    /*grid-template-columns: 120px 1fr 1fr;*/
     align-items: center;
     /*padding: 10px;*/
@@ -313,4 +311,7 @@ footer {
 }
 .social img:hover {
     transform: scale(1.1);
+}
+body {
+    width: auto;
 }
