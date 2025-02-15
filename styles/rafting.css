@@ -10,8 +10,8 @@ h1 {
     /*font-size: 2.5rem;*/
     /*font-weight: 0;*/
     /*text-align: none;*/
-    margin: 0;
-    padding: 0;
+    margin: auto;
+    padding: auto;
     font-family: "Roboto Serif", serif;
 }
 h1 a {
@@ -24,8 +24,8 @@ h2 {
     font-size: 1.5rem;
     /*font-weight: 0;*/
     text-align: center;
-    margin: 0;
-    padding: 0;
+    margin: auto;
+    padding: auto;
     font-family: "Roboto Serif", serif;
 }
 h3 {
@@ -33,8 +33,8 @@ h3 {
     font-size: 1.5rem;
     /*font-weight: 0;*/
     /*text-align: none;*/
-    margin: 0;
-    padding: 0;
+    margin: auto;
+    padding: auto;
     font-family: "Roboto Serif", serif;
     /*font-weight: 0;*/
 }
