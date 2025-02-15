@@ -38,3 +38,6 @@ h3 {
     font-family: "Roboto Serif", serif;
     /*font-weight: 0;*/
 }
+body {
+    background-color: rgb(112, 104, 121);
+}
